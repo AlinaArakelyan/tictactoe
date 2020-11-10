@@ -37,6 +37,6 @@ function turn(squareId, player) {
     if (gameWon) gameOver(gameWon)
 }
 
-function checkWin(board, player) {
-    
-}
+// function checkWin(board, player) {
+
+// }
